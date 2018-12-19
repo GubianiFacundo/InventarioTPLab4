@@ -1,6 +1,8 @@
 # Inventario
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+This proyect was done with the collaboration of https://github.com/NahuelHerrlein and https://github.com/tzanuttini
+
+This project was generated with Angular CLI version 7.1.2.
 
 ## Development server
 
